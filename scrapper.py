@@ -328,7 +328,7 @@ def format_name(names, index=0, flag=False):
 
 
 if __name__ == "__main__":
-    master_url = 'http://a1automotivecooling.co.nz/products/index_new'
+    master_url = 'http://b2bvupnpujwfedppmjoh.dp.oa/qspevdut/joefy_ofx' # this is the target and its modified with a key  
     spider_legs = spider_head(master_url)
     print_data = []
     #print '+++++++++++++++++++++++++'
